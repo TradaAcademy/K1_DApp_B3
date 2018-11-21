@@ -1,5 +1,5 @@
 Slide:
-https://docs.google.com/presentation/d/16HrPp2ziHc7VnZ7zN0243FNcEU_N3AbfqnjcJs_0aLs/edit#slide=id.g4731582438_0_0
+https://docs.google.com/presentation/d/16HrPp2ziHc7VnZ7zN0243FNcEU_N3AbfqnjcJs_0aLs
 
 
 Câu hỏi & Bài về Nhà:
