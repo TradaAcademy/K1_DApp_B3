@@ -9,4 +9,8 @@ Câu hỏi:
 - Phân biệt giữa require & assert
 
 Bài tập:
-
+- Chình lại contract UserKyc để thêm role operator với các quyền hạn như sau:
+  +) Operator có thể thêm operator khác nhưng cần sự approve từ admin
+  +) Admin có thể thêm operator
+  +) Admin có thể xoá được operator
+  +) Operator và admin đều có thể thêm và xoá đươc users
